@@ -1,0 +1,6 @@
+{
+  "name": "AI Design Grabber & Sublimation Studio",
+  "description": "Extract badges, flat jersey panels, seamless patterns, and sublimation artwork from apparel mockups with AI precision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
